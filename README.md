@@ -10,7 +10,7 @@ sistemas con IA.
 - **Análisis:** pandas · estadística descriptiva · EDA · KMeans (clustering)
 - **Visualización:** gráficos interactivos con Tkinter
 - **IA / NLP:** minería de texto · NLP · sistemas RAG
-- **Otros:** Git/GitHub · [agrega aquí SQL, Power BI, Excel, etc. si los dominas]
+- **Otros:** Git/GitHub · SQL . Excel . Power Bi
 
 ## 📊 Proyectos destacados
 
