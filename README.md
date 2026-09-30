@@ -22,6 +22,7 @@ sistemas con IA.
 | [rag_system](https://github.com/Vartax16/rag_system) | Sistema RAG (generación aumentada por recuperación) | Python |
 | [Inventario](https://github.com/Vartax16/Inventario) · [Frontend](https://github.com/Vartax16/Inventario-Frontend) | Sistema de inventario para un colmado | C#, CSS |
 | [Analisis_de_sentimientos](https://github.com/Vartax16/sentiment_analysis_tourism_rd.ipynb) | Análisis de sentimientos sobre el turismo en la República Dominicana | Python |
+| [Consultas_SQL_optimizadas](https://github.com/Vartax16/Consultas_SQL_optimizadas) | Consultas SQL optimizadas para análisis y gestión eficiente de datos | SQL |
 
 ## 🎯 Actualmente
 - Fortaleciendo mi portafolio de análisis de datos
