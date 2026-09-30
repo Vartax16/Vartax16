@@ -6,7 +6,7 @@ información útil: análisis exploratorio, segmentación de clientes, minería 
 sistemas con IA.
 
 ## 🛠️ Herramientas
-- **Lenguajes:** Python · C#
+- **Lenguajes:** Python · C# . R
 - **Análisis:** pandas · estadística descriptiva · EDA · KMeans (clustering)
 - **Visualización:** gráficos interactivos con Tkinter
 - **IA / NLP:** minería de texto · NLP · sistemas RAG
