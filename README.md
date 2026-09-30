@@ -21,7 +21,7 @@ sistemas con IA.
 | [proyecto_final_text_mining_y_NLP](https://github.com/Vartax16/proyecto_final_text_mining_y_NLP) | Proyecto final de minería de texto y procesamiento de lenguaje natural | Python, NLP |
 | [rag_system](https://github.com/Vartax16/rag_system) | Sistema RAG (generación aumentada por recuperación) | Python |
 | [Inventario](https://github.com/Vartax16/Inventario) · [Frontend](https://github.com/Vartax16/Inventario-Frontend) | Sistema de inventario para un colmado | C#, CSS |
-
+| [Analisis_de_sentimientos]([https://github.com/Vartax16/Inventario](https://github.com/Vartax16/sentiment_analysis_tourism_rd.ipynb))| Análisis de sentimientos sobre el turismo en la Republica Dominicana | Python |
 ## 🎯 Actualmente
 - Fortaleciendo mi portafolio de análisis de datos
 - Abierta a oportunidades como analista de datos ([remoto / República Dominicana])
