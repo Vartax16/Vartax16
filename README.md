@@ -26,7 +26,15 @@ sistemas con IA.
 
 ## 🎯 Actualmente
 - Fortaleciendo mi portafolio de análisis de datos
-- Abierta a oportunidades como analista de datos ([remoto / República Dominicana])
+- Abierta a oportunidades ([remoto o  hibrido / República Dominicana])
+- Áreas de interés:
+
+Análisis de Datos
+Business Intelligence
+SQL
+Power BI
+Big Data
+Inteligencia Artificial
 
 ## 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/patziperezmoquete/)
