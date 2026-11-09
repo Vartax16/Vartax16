@@ -16,13 +16,14 @@ sistemas con IA.
 
 | Proyecto | Qué resuelve | Tecnologías |
 |---|---|---|
-| [Diamantes-Python](https://github.com/Vartax16/Diamantes-Python) | Análisis exploratorio de datos de diamantes: estadísticas clave (media, mediana, moda, varianza) y visualización interactiva | Python, Tkinter |
+| [Diamantes-Python](https://github.com/Vartax16/Diamantes-Python) | Análisis exploratorio de datos de diamantes: estadísticas clave (media, mediana, moda, varianza) y visualización interactiva | Python, pandas, matplotlib |
 | [clusters-py](https://github.com/Vartax16/clusters-py) | Segmentación de clientes con KMeans para identificar grupos con comportamientos similares | Python, KMeans |
 | [proyecto_final_text_mining_y_NLP](https://github.com/Vartax16/proyecto_final_text_mining_y_NLP) | Proyecto final de minería de texto y procesamiento de lenguaje natural | Python, NLP |
 | [rag_system](https://github.com/Vartax16/rag_system) | Sistema RAG (generación aumentada por recuperación) | Python |
 | [Inventario](https://github.com/Vartax16/Inventario) · [Frontend](https://github.com/Vartax16/Inventario-Frontend) | Sistema de inventario para un colmado | C#, CSS |
 | [Analisis_de_sentimientos](https://github.com/Vartax16/sentiment_analysis_tourism_rd.ipynb) | Análisis de sentimientos sobre el turismo en la República Dominicana | Python |
 | [Consultas_SQL_optimizadas](https://github.com/Vartax16/Consultas_SQL_optimizadas) | Consultas SQL optimizadas para análisis y gestión eficiente de datos | SQL |
+| [compras_publicas_rd](https://github.com/Vartax16/compras_publicas_rd) | Análisis de compras públicas de la República Dominicana para identificar patrones y oportunidades de mejora en los datos | Python, pandas, Jupyter Notebook |
 
 ## 🎯 Actualmente
 - Fortaleciendo mi portafolio de análisis de datos
